@@ -214,7 +214,6 @@ fn prompt_for_completion(exercise: &Exercise, prompt_output: Option<String>, suc
             formatted_line
         );
     }
-
     false
 }
 
